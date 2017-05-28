@@ -9,7 +9,7 @@ We have several projects including computational modeling of the second stage of
 
 The prevalence of pelvic floor muscle dysfunction in women is enormous.  One in four women will suffer from one or more pelvic floor disorders during their life time. Our understanding of the mechanics of how these disorders develop is limited and most of our knowledge has been been gained from large epidemiological studies. These are expensive, time consuming and result in statistical associations between variables, not an understanding of the mechanics involved.
 
-We will develop a 
+We have several specific ongoing projects, within the PF research group dedicated to developing the computational modeling of second stage labour and 
 
 
 
