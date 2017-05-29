@@ -16,14 +16,14 @@ Clinical validation of the device is critical. Does the information from the pre
 
 This is a multidisciplinary team, including urogynaecologists, physiotherapists, bioengineers (students and PI's) and app developers.  Open communication is essential for advancement of the project. 
 
-#Project Team (roles and responsibilities)
+# Project Team (roles and responsibilities)
 
 -Jennifer Kruger - PI - management of project, collating input from all team members, funding, collaboration with key opinion leaders, organisation of team. 
--David Budgett- key developer of the device
--Poul Nielsen - key design and developer
--David Chan - Master student on analysis of data
+-David Budgett, key developer of the device
+-Poul Nielsen, key design and developer
+-David Chan, Master student on analysis of data
 -Melanie 
--Stephanie Budgett - statistics
+-Stephanie Budgett, statistics
 -Ruth
 -Bev
 -Jackie Smalldrige (urogynaecologist)
