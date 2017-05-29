@@ -24,6 +24,6 @@ Poul Nielsen - key design and developer
 David Chan - Master student on analysis of data
 
 
-Regular meetings - face to face and online updates a
+Regular meetings - face to face and online updates on a 
 
 
